@@ -1,0 +1,27 @@
+{
+    "name": "Tanguy CHEVALIER",
+    "age": "19 ans",
+    "mail": "tanguy.chevalier@etudiant.univ-rennes.fr",
+    "formation": "MMI",
+    "statut": "alternant",
+    "parcours": "Développement Web",
+    "passion": "vélo",
+
+    "projets":
+    [{
+        "img":"https://assets-global.website-files.com/64760069e93084646c9ee428/64760069e93084646c9eee9a_6240b4979b3af95b2960fd1d_maquette-figma.png",
+        "titre":"Maquettes",
+        "desc":"J'ai réalisé des maquettes pour le site vitrine de l'entreprise dans je suis en alternance, UrbanThink."
+    },
+    {
+        "img":"https://images.blackmagicdesign.com/images/products/davinciresolve/edit/hero/hero-still.jpg?_v=1592448885",
+        "titre":"Montage Vidéo",
+        "desc":"J'ai réalisé des Vidéos publicitaires et de présentation des application, ThinkCities et Athénergie."
+    },
+    {
+        "img":"https://images.businessnewsdaily.com/app/uploads/2018/05/23131003/linkedin-career-page.png",
+        "titre":"Communication",
+        "desc":"J'annime la communauté qui suit mon entreprise, cela passe notament par les posts réguliers sur Linkedin."
+    }
+]
+}

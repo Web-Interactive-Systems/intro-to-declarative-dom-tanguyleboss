@@ -1,0 +1,48 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 20vw;
+    margin-right: 20vw;
+}
+
+p{
+    font-weight: 500;
+}
+
+h2{
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.description{
+    text-align: center;
+}
+
+h3{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+div{
+   display: grid;
+   grid-template-rows: 100px 30px 60px;
+}
+
+div img{
+    text-align:center;
+    justify-content: center;
+    align-items:center;
+    height:100px;
+    border-radius: 15px;
+    grid-row: 1/2;
+}
+
+div h5{
+    text-align: center;
+    grid-row: 2/3;
+}
+
+div p{
+    text-align:center;
+    grid-row: 3/4;
+}
